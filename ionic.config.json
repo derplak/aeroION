@@ -1,0 +1,12 @@
+{
+  "projects": {
+    "aeroIONIC": {
+      "name": "aeroIONIC",
+      "integrations": {
+        "capacitor": {}
+      },
+      "type": "angular",
+      "root": "projects/aeroIONIC"
+    }
+  }
+}
